@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Simple_CRUD_Project-[Servlet_JDBC]:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="simple-crud-project-[servlet_jdbc]-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Simple_CRUD_Project-[Servlet_JDBC]:war exploded" />
+    </root>
+  </artifact>
+</component>
